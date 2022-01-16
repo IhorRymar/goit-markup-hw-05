@@ -514,7 +514,7 @@ img {
   padding: 63px 24px;
   height: 294px;
   background-color: rgba(33, 150, 243, 0.9);
-  transform: translateY(100%);
+  transform: translateY(101%);
   transition: transform 350ms ease-out 150ms;
   overflow: auto;
 }
@@ -632,6 +632,8 @@ img {
 .sn-icon {
   fill: inherit;
 }
+
+/* МОДАЛКА */
 
 .backdrop {
   position: fixed;
